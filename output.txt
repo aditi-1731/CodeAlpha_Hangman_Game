@@ -1,0 +1,54 @@
+==============================
+ Welcome to Hangman 
+==============================
+Guess the word one letter at a time.
+You have 6 lives.
+
+_ _ _ _ _ _ _
+Remaining lives: 6
+Guessed letters so far: 
+Enter your guess: a
+_ _ _ _ _ _ _
+Remaining lives: 5
+Guessed letters so far: a
+Enter your guess: l
+_ _ _ _ _ _ _
+Remaining lives: 4
+Guessed letters so far: a, l
+Enter your guess: p
+_ _ _ _ _ _ _
+Remaining lives: 3
+Guessed letters so far: a, l, p
+Enter your guess: c
+c _ _ c _ _ _
+Remaining lives: 3
+Guessed letters so far: a, l, p, c
+Enter your guess: r
+c r _ c _ _ _
+Remaining lives: 3
+Guessed letters so far: a, l, p, c, r
+Enter your guess: i
+c r i c _ _ _
+Remaining lives: 3
+Guessed letters so far: a, l, p, c, r, i
+Enter your guess: f
+c r i c _ _ _
+Remaining lives: 2
+Guessed letters so far: a, l, p, c, r, i, f
+Enter your guess: e
+c r i c _ e _
+Remaining lives: 2
+Guessed letters so far: a, l, p, c, r, i, f, e
+Enter your guess: t
+c r i c _ e t
+Remaining lives: 2
+Guessed letters so far: a, l, p, c, r, i, f, e, t
+Enter your guess: s
+c r i c _ e t
+Remaining lives: 1
+Guessed letters so far: a, l, p, c, r, i, f, e, t, s
+Enter your guess: k
+===============================
+Congratulations!!
+You guessed the word: cricket
+===============================
